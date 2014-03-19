@@ -1,0 +1,1 @@
+..\release\svm_multiclass_classify.exe ..\sample\result\testVector_10_20000.txt ..\sample\result\model_10_20000.mdl ..\sample\result\result_10_20000.txt

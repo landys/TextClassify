@@ -1,0 +1,37 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SplitSystem", "SplitSystem\SplitSystem.vcproj", "{8723B681-F7E9-48D5-83C9-6E3A3C09F97B}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "svm_multiclass_learn", "svm_multiclass_learn\svm_multiclass_learn.vcproj", "{9D365927-049B-407A-8DAB-C962A94614EA}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "svm_multiclass_classify", "svm_multiclass_classify\svm_multiclass_classify.vcproj", "{3380E322-E41E-4437-93FE-0F44F57CC81A}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{8723B681-F7E9-48D5-83C9-6E3A3C09F97B}.Debug.ActiveCfg = Debug|Win32
+		{8723B681-F7E9-48D5-83C9-6E3A3C09F97B}.Debug.Build.0 = Debug|Win32
+		{8723B681-F7E9-48D5-83C9-6E3A3C09F97B}.Release.ActiveCfg = Release|Win32
+		{8723B681-F7E9-48D5-83C9-6E3A3C09F97B}.Release.Build.0 = Release|Win32
+		{9D365927-049B-407A-8DAB-C962A94614EA}.Debug.ActiveCfg = Debug|Win32
+		{9D365927-049B-407A-8DAB-C962A94614EA}.Debug.Build.0 = Debug|Win32
+		{9D365927-049B-407A-8DAB-C962A94614EA}.Release.ActiveCfg = Release|Win32
+		{9D365927-049B-407A-8DAB-C962A94614EA}.Release.Build.0 = Release|Win32
+		{3380E322-E41E-4437-93FE-0F44F57CC81A}.Debug.ActiveCfg = Debug|Win32
+		{3380E322-E41E-4437-93FE-0F44F57CC81A}.Debug.Build.0 = Debug|Win32
+		{3380E322-E41E-4437-93FE-0F44F57CC81A}.Release.ActiveCfg = Release|Win32
+		{3380E322-E41E-4437-93FE-0F44F57CC81A}.Release.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

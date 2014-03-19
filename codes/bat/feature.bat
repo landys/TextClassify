@@ -1,0 +1,1 @@
+..\Release\SplitSystem.exe 1

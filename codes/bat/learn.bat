@@ -1,0 +1,1 @@
+..\release\svm_multiclass_learn.exe -c 5000 ..\sample\result\trainVector_10_20000.txt ..\sample\result\model_10_20000.mdl > ..\sample\result\learn_process_10_20000.txt
